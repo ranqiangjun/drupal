@@ -36,6 +36,12 @@
         "drupal-scaffold": {
             "locations": {
                 "web-root": "web/"
+            },
+            "file-mapping": {
+                "[project-root]/.gitattributes": {
+                    "mode": "append",
+                    "append": "assets/gitattributes-append.txt"
+                }
             }
         },
         "installer-paths": {

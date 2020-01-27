@@ -1,0 +1,2 @@
+# See https://github.com/jungleran/drupal-composer-project-template/issues/3
+/composer.lock -merge
