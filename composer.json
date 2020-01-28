@@ -28,6 +28,7 @@
         "drupal/flood_unblock": "^1.5",
         "drupal/masquerade": "^2.0@beta",
         "drupal/module_filter": "^3.1",
+        "drush/drush": "^10.2",
         "hirak/prestissimo": "^0.3.9",
         "wikimedia/composer-merge-plugin": "^1.4",
         "zaporylie/composer-drupal-optimizations": "^1.1"
